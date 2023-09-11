@@ -1,0 +1,31 @@
+body {
+    background-color: tomato;
+}
+
+.halo-container{
+    text-align: center;
+}
+
+/*h1 {
+    color:rgb(20, 220, 63);
+} */
+
+.h1-container{
+    text-align: center;
+    color: darkblue ;
+    border-style: dotted;
+    margin-bottom: 20px;
+}
+
+.h2-container {
+    color: blue;
+    border-style: solid;
+    width: 50%;
+    padding: 30px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 30px;
+}
+
+
+
+/* This is a single-line comment */
